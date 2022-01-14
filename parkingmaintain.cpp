@@ -47,7 +47,7 @@ int
 Menu ()
 {
   int ch;
-  cout << "\n1-> ENTER BUS    : " << endl;
+  cout << "\n1 ENTER BUS    : " << endl;
   cout << "\n2 ENTER CYCLE  : " << endl;
   cout << "\n3 ENTER RIKSHA : " << endl;
   cout << "\n4 ENTER STATUS : " << endl;
